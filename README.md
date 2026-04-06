@@ -1,4 +1,3 @@
-# HIGHLY-AVAILABLE-WEB-APPLICATION-.
 # 🚀 Highly Available Web Application using Auto Scaling & Load Balancer
 
 ## 📌 Project Overview
@@ -135,4 +134,3 @@ This project demonstrates a scalable, fault-tolerant system that can handle traf
 ## 🙌 Author
 **Om Hivarkar**  
 AWS DevOps Fresher
-
