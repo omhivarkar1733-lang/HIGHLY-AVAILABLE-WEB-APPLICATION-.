@@ -95,13 +95,6 @@ echo "<h1>Version 1 - Highly Available App</h1>" > /var/www/html/index.html
 
 ---
 
-## 📸 Screenshots
-(Add your screenshots here)
-- VPC Setup
-- Subnets
-- Load Balancer
-- Auto Scaling Group
-- CloudWatch Metrics
 
 ---
 
